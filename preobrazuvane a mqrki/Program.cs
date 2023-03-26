@@ -14,7 +14,6 @@
                 number = space * 1.6;
                 Console.WriteLine(number);
             }
-            //added
             else if (measures == "inches")
             {
                 number = space * 2.54;
